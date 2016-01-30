@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0"?>
 <package >
   <metadata>
-    <id>$id$</id>
+    <id>NUnitTfsTestCase</id>
     <version>$version$</version>
-    <title>$title$</title>
+    <title>NUnitTfsTestCase</title>
     <authors>Joel Dickson</authors>
     <owners>Joel Dickson</owners>
     <licenseUrl>http://www.hosted-solutions.com.au/</licenseUrl>
