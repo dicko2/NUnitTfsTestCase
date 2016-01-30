@@ -8,9 +8,8 @@
     <owners>Joel Dickson</owners>
     <licenseUrl>http://www.hosted-solutions.com.au/</licenseUrl>
     <projectUrl>http://www.hosted-solutions.com.au/</projectUrl>
-    <iconUrl>http://www.hosted-solutions.com.au/</iconUrl>
+    <iconUrl>http://www.hosted-solutions.com.au/15168424.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>$description$</description>
     <summary>Allows access to test case data in TFS from nunit tests, to read parameters and also to update test runs.</summary>
     <description>Allows access to test case data in TFS from nunit tests, to read parameters and also to update test runs.</description>
     <copyright>Copyright 2016</copyright>
