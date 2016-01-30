@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("NUnitTfsTestCase")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Allows access to test case data in TFS from nunit tests, to read parameters and also to update test runs")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Hosted Solutions")]
 [assembly: AssemblyProduct("NUnitTfsTestCase")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
