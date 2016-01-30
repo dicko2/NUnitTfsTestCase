@@ -21,6 +21,6 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="bin\NUnitTfsTestCase.dll" target="lib\net45" />
+    <file src="bin\Release\NUnitTfsTestCase.dll" target="lib\net45" />
   </files>
 </package>
