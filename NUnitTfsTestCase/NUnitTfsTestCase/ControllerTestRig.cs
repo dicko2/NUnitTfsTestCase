@@ -7,7 +7,7 @@ using NUnit.Framework;
 
 namespace NUnitTfsTestCase
 {
-    class ControllerTestRig
+    public class ControllerTestRig
     {
         [OneTimeTearDown]
         public void Stop()
