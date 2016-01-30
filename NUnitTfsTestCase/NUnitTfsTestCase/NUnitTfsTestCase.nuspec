@@ -20,4 +20,7 @@
       <dependency id="NUnit" version="3.0.1" />
     </dependencies>
   </metadata>
+  <files>
+    <file src="bin\NUnitTfsTestCase.dll" target="lib\net45" />
+  </files>
 </package>
