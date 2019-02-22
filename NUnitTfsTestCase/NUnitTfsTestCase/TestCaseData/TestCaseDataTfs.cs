@@ -16,7 +16,7 @@ namespace NUnitTfsTestCase.TestCaseData
         /// <returns>IEnumerable with array of values casted to dynamic.</returns>
         public static IEnumerable<dynamic> GetTestDataInternal(int testCaseId)
         {
-            yield return GetTestDataAsArray(testCaseId) as dynamic;
+            return GetTestDataAsArray(testCaseId);
         }
 
         /// <summary>
